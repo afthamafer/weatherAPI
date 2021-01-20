@@ -11,6 +11,6 @@ Searches [press Enter] the Openweather Database and looks for the inserted count
 Invalid input returns an empth textbox.
 
 See the screenshots below 
-![Alt Text](https://imgur.com/a/lQpw4Ja)
-![Alt Text](https://imgur.com/a/lQyewam)
+![Alt Text](weatherapi/Preview1.JPG)
+![Alt Text](weatherapi/Preview2.JPG)
 
