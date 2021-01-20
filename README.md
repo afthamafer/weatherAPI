@@ -1,6 +1,6 @@
 # OpenWeatherAPI
 
-This project was made with [OpenweatherAPI](https://openweathermap.org/) and Javascript React
+This project was made with [OpenweatherAPI](https://openweathermap.org/) and [Javascript JS](https://reactjs.org/)
 
 ## About
 
